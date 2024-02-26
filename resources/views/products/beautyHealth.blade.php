@@ -1,0 +1,1 @@
+<h1>Ini adalah halaman Beauty Health</h1>
